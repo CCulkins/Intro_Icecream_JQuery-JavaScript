@@ -1,12 +1,12 @@
 # _Icecream_
 
-#### Application that outputs user's form inputs, Jan 13, 2016
+#### Application that prints user's form inputs, Jan 13, 2016
 
 #### By _**Christopher & Cassy**_
 
 ## Description
 
-_User submits icecream favorites, alert pops up, and application outputs form inputs._
+_User submits icecream favorites, alert pops up, and application prints form inputs._
 
 ## Setup/Installation Requirements
 
